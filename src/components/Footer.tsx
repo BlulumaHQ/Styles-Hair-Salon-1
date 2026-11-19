@@ -129,7 +129,7 @@ const Footer = () => {
             >
               SwiftLift
             </a>
-          </p>
+          {" "}<span className="block mt-1 opacity-80" data-concept-note>Design concept for portfolio purposes only. Not the official website of Styles Hair Salon and Day Spa.</span></p>
         </div>
       </div>
     </footer>
